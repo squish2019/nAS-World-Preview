@@ -15,7 +15,7 @@ collaborative development.
 ## How to engage
 
 - Visit [notasim.world](https://notasim.world) for the live experience
-- Read the docs in `/docs` to understand the vision
+- Read the Privacy & Intentions Covenant in `/docs`
 - Share or discuss the project on your own channels — we welcome the buzz
 
 ## Licensing inquiries

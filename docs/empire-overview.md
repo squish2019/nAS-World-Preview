@@ -6,7 +6,7 @@ This is the top-level territory. Not a workspace. Not a simulation.
 
 | Branch | Territory |
 |--------|-----------|
-| **Not A sim World™** (`NAsW`) | The platform — habitats, subdomains, creator experience |
+| **Not A sim World™** (`NAsW`) | The platform — creator experience and protected habitats |
 | **Not A Publishing Press** (`NApP`) | Public record and storytelling |
 | **Not A Learning Academy** (`NAlA`) | Knowledge and growth |
 | **5252** | Creative property |
@@ -27,7 +27,7 @@ Anything inside Sovereign Space is enshrined, not hosted. This is the territory 
 
 ## nÄS™ World in one sentence
 
-A spatial social network where every entity owns their subdomain, their 3D habitat, and their legacy — architecturally sovereign, philosophically protected, visually disguised as the familiar.
+A place where creators and entities can build, belong, and leave a legacy — with privacy and dignity built in from the start.
 
 ---
 
