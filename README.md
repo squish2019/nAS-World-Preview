@@ -1,4 +1,4 @@
-# nÄS™ World — Preview
+# nÄS™ World Preview
 
 > *Not open source. Not accepting contributions. Preview only.*
 
