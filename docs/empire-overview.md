@@ -6,7 +6,7 @@ This is the top-level territory. Not a workspace. Not a simulation.
 
 | Branch | Territory |
 |--------|-----------|
-| **Not A sim World™** (`NAsW`) | The platform — creator experience and protected habitats |
+| **Not A sim World™** (`nÄS World™`) | The platform — creator experience and protected habitats |
 | **Not A Publishing Press** (`NApP`) | Public record and storytelling |
 | **Not A Learning Academy** (`NAlA`) | Knowledge and growth |
 | **5252** | Creative property |

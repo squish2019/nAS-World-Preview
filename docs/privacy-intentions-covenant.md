@@ -1,6 +1,7 @@
-# Privacy & Intentions Protocol
+# ***Covenant **
 
-## Statement of Intent
+
+## My Intent
 
 This project was not created by a corporation, a research lab, or a committee.
 
@@ -8,7 +9,7 @@ It was created by a human being who has lived a life much like most people alive
 
 I have worked, struggled, loved, lost, adapted, failed, learned, and kept going inside the same systems everyone else has. I am not above those systems, and I am not immune to the ways they can erase people quietly once they scale.
 
-notasim.world exists because I needed a place where people thinking about building something new could do so without surrendering their inner life.
+nÄS World™ exists because I needed a place where people thinking about building something new could do so without surrendering their inner life.
 
 There is no hidden agenda here. No extraction plan waiting for later. No moment where curiosity turns into capture.
 
@@ -22,12 +23,16 @@ This world is not designed to study you. It is designed to give you room to deci
 
 ## What Is Not Collected
 
-notasim.world does not collect, infer, or attempt to model:
+nÄS World™ does not collect, infer, or attempt to model:
 
 - Psychological profiles
+
 - Emotional fingerprints
+
 - Behavioral prediction data
+
 - Identity abstractions
+
 - Creative essence or interior states
 
 If data is not required for a feature to function right now, it is not collected.
@@ -37,14 +42,19 @@ If data is not required for a feature to function right now, it is not collected
 Minimal technical data may be temporarily handled only for:
 
 - Security and abuse prevention
+
 - Session integrity
+
 - Explicit, user-initiated configuration
 
 This data is:
 
 - Purpose-bound
+
 - Never repurposed
+
 - Never sold
+
 - Never trained against
 
 There is no secondary use. There are no silent partners.
@@ -62,7 +72,9 @@ These principles are written with continuity in mind.
 They are intended to remain in force regardless of:
 
 - Leadership changes
+
 - Platform evolution
+
 - Cultural or commercial pressure
 
 If this world continues, these boundaries continue with it.
@@ -72,3 +84,4 @@ If this world continues, these boundaries continue with it.
 This world exists so people do not have to trade their inner life for access to tools, space, or possibility.
 
 If any system ever requires that trade, it has already failed the human it claims to serve.
+
