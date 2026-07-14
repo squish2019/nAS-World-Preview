@@ -1,4 +1,4 @@
-# Not A sim Empire™ — Overview
+# Not A sim Empire™ Overview
 
 This is the top-level territory. Not a workspace. Not a simulation.
 
